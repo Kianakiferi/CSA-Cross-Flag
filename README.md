@@ -1,7 +1,7 @@
 ![alt Regular size](https://github.com/Kianakiferi/CSA-Cross-Flag/blob/main/Regular.png)  
 
 # CSA-Cross-Flag
-CSA cross flag image in .png and .svg
+Confederate States of America (CSA) cross flag image in .png and .svg
 
 ## PNG Image Resolution Info
 | Name | Resolution (Pixel) |
